@@ -82,11 +82,11 @@ python-iso639==2024.1.2
 python-magic==0.4.27
 pytz==2023.3.post1
 PyYAML
-qdrant-client==1.7.0
+qdrant-client
 rapidfuzz==3.6.1
 referencing==0.32.1
 regex==2023.12.25
-requests==2.31.0
+requests
 rich==13.7.0
 rpds-py==0.17.1
 safetensors==0.4.1
@@ -113,7 +113,7 @@ torchvision==0.16.2
 tornado==6.4
 tqdm==4.66.1
 transformers==4.36.2
-types-requests==2.31.0.20240106
+types-requests
 typing-inspect==0.9.0
 typing_extensions==4.9.0
 tzdata==2023.4
